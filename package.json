@@ -1,0 +1,37 @@
+{
+	"name": "number-rounding",
+	"version": "1.0.0",
+	"description": "Javascript number rounding library",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NandishSolanki/NumberRounding.git"
+	},
+	"keywords": [
+		"Round",
+		"Bankers",
+		"Rounding",
+		"Mathjs",
+		"Math",
+		"Half Even",
+		"Half Odd",
+		"Round Up",
+		"Round Down",
+		"Half Up",
+		"Half Down",
+		"Up",
+		"Down"
+	],
+	"author": "Nandish Solanki",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/NandishSolanki/NumberRounding/issues"
+	},
+	"homepage": "https://github.com/NandishSolanki/NumberRounding#readme",
+	"devDependencies": {
+		"jest": "^24.3.1"
+	}
+}

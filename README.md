@@ -1,4 +1,4 @@
-# Number Rounding
+# Number Rounding [![Build Status](https://travis-ci.org/NandishSolanki/NumberRounding.svg?branch=master)](https://travis-ci.org/NandishSolanki/NumberRounding)
 
 ## Install
 ``` npm install --save number-rounding```
